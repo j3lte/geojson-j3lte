@@ -1,0 +1,1 @@
+gradle clean && gradle build && gradle jar && cp ./lib/build/libs/geojson-j3lte.jar /Volumes/\[C\]\ Windows\ 11/Projects/MapsDevelopment-main/userlib
